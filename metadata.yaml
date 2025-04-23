@@ -1,0 +1,29 @@
+_repo: The-Roll-of-Honour-Volume-1-b-A-biographical-record-of-all-members-of-His-Majesty-s-naval-and__75883
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ruvigny, Marquis de
+    gutenberg_agent_id: '58208'
+    url: http://www.gutenberg.org/2009/agents/58208
+description: ''
+gutenberg_issued: '2025-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75883'
+language: en
+pgterms:marc904: https://archive.org/details/rollofhonourbiog02ruvi/page/n6
+pgterms:marc905: 20191119223939ruvigny
+pgterms:marc906: '1917'
+pgterms:marc907: GB
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bThe Standard Art Book Co, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Roll of Honour, Volume 1 : $b A biographical record of all members of
+  His Majesty''s naval  and military forces who have fallen in the war'
+url: http://www.gutenberg.org/ebooks/75883
